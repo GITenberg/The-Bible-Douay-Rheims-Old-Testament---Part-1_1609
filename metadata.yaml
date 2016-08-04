@@ -1,0 +1,31 @@
+_repo: The-Bible-Douay-Rheims-Old-Testament---Part-1_1609
+_version: 0.0.1
+description: Old Testament Part 1 is vol I of III. See also Complete (vol I-III) PG#8300
+  and Complete version (vol I-III with Appendices) PG#1581 and OT (vol II) PG#1610
+  and NT (vol III) PG#1582
+edition_note: Challoner's revised Douay-Rheims Version (Old Testament 1609 & 1610).
+  The Whole Revised and Diligently Compared with the Latin Vulgate by Bishop Richard
+  Challoner A.D. 1749-1752
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1609'
+language: en
+publication_note: 'Murray, KY :  Catholic Software,  [1999]'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion'
+- !lcc 'BS'
+- !lcsh 'Bible. Old Testament'
+- GITenberg
+tableOfContents: 'The First Part of the Old Testament: Book of Genesis -- Book of
+  Exodus -- Book of Leviticus -- Book of Numbers -- Book of Deuteronomy -- Book of
+  Josue -- Book of Judges -- Book of Ruth -- First Book of Samuel, alias 1 Kings --
+  econd Book of Samuel, alias 2 Kings -- Third Book of Kings -- Fourth Book of Kings
+  -- First Book of Paralipomenon -- Second Book of Paralipomenon -- First Book of
+  Esdras -- Book of Nehemias, alias 2 Esdras -- Book of Tobias -- Book of Judith --
+  Book of Esther -- Book of Job.'
+title: The Bible, Douay-Rheims, Old Testament — Part 1
+url: http://www.gutenberg.org/ebooks/1609
